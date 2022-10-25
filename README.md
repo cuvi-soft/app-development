@@ -1,1 +1,2 @@
 # app-development
+#QR generator
